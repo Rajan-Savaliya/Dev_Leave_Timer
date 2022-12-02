@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dev_Leave_Timer/static/css/main.e6c13ad2.css",
+    "main.js": "/Dev_Leave_Timer/static/js/main.d5199dc9.js",
+    "static/js/787.c5973a93.chunk.js": "/Dev_Leave_Timer/static/js/787.c5973a93.chunk.js",
+    "index.html": "/Dev_Leave_Timer/index.html",
+    "main.e6c13ad2.css.map": "/Dev_Leave_Timer/static/css/main.e6c13ad2.css.map",
+    "main.d5199dc9.js.map": "/Dev_Leave_Timer/static/js/main.d5199dc9.js.map",
+    "787.c5973a93.chunk.js.map": "/Dev_Leave_Timer/static/js/787.c5973a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d5199dc9.js"
+  ]
+}
